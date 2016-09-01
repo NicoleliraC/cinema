@@ -1,0 +1,220 @@
+
+.theater{
+	color:#D7D7D7;
+	font-size: 10px;
+	margin-top: 40px;
+}
+.buscador{
+	width: 200px;
+	height:40px;
+	border:1px solid #938989;
+	color:white;
+	font-size: 20px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+img{
+	max-width: 100%;
+}
+.grisa{
+	background-color: #383838;
+}
+.banner{
+	margin-left: -70px;
+}
+h1{
+	font-size: 35px;
+	color:#D3D3D3;
+	margin-top:20px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.linea-uno{
+	width: 250px;
+	border:none;
+	border-bottom: 1px solid #D3D3D3;
+	margin-top: 10px;
+}
+.don{
+	position: relative;
+	left:65px;
+	bottom: 32px;
+}
+.rating{
+	margin-top: -3px;
+}
+p{
+	font-family:Arial;
+	font-size: 13px;
+	color:white;
+	
+}
+.textos{
+	position: relative;
+	left:150px;
+	bottom: 14px;
+}
+.cuadrado{
+	width: 60px;
+	height: 35px;
+	border: 2px solid #599E6E;
+	margin-top: 20px;
+	color:green;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.all{
+	color:#599E6E;
+}
+.bond{
+	border-left: 40px;
+}
+.cuadros{
+	width: 130px;
+	height: 40px;
+	background-color: #DFB636;
+	border-radius: 5px;
+	margin-top: 15px;
+
+}
+.dos{
+	margin-top: 10px;
+	background-color: #BC7B29;
+}
+.watch{
+	font-size: 10px;
+	font-family: Arial;
+	text-align: center;
+	padding-top:  10px;
+
+}
+.amarillo{
+	background-color: #DFB636;
+	padding: 15px;
+}
+.lego{
+	width: 300px;
+	height: 200px;
+}
+.white{
+	background-color: white;
+
+}
+.dont {
+	font-size: 20px;
+	color:#BBB3B3;
+	padding-left: 90px;
+	margin-top: 20px;
+	font-family: Arial;
+}
+.book{
+	font-size: 30px;
+	color:black;
+	padding-left: 90px;
+	margin-top: 20px;
+	font-family: Arial;
+}
+.easy{
+	font-size: 20px;
+	color:#BBB3B3;
+	padding-left: 90px;
+	margin-top: 30px;
+	font-family: Arial;
+}
+.tickets{
+	width: 150px;
+	height: 60px;
+	background-color: #BC7B29;
+	margin-top: 30px;
+	margin-left: 90px;
+	border-radius: 5px;
+	
+}
+.git{
+	font-size: 13px;
+	color:#CD4758;
+	padding-left: 90px;
+	margin-top: 50px;
+	font-family: Arial;
+}
+.new{
+	font-size: 20px;
+	color:#BBB3B3;
+	padding-left: 90px;
+	margin-top: 20px;
+	font-family: Arial;
+}
+.lorem{
+	font-size: 13px;
+	color:black;
+	padding-left: 90px;
+	margin-top: 20px;
+	font-family: Arial;
+}
+.november{
+	font-size: 13px;
+	color:#BBB3B3;
+	padding-left: 90px;
+	margin-top: 20px;
+	font-family: Arial;
+}
+.ipsum{
+	font-size: 13px;
+	color:#BBB3B3;
+	padding-left: 90px;
+	margin-top: 20px;
+	font-family: Arial;
+}
+.linea-dos{
+	width: 500px;
+	border:none;
+	border-bottom: 1px solid #BBB3B3;
+	margin-left: 90px;
+	margin-top: 30px;
+}
+.more{
+	font-size: 15px;
+	color:#BC7B29;
+	padding-left: 90px;
+	margin-top: 30px;
+	font-family: Arial;
+}
+.life{
+	width: 300px;
+	height: 200px;
+	margin-top: 40px;
+}
+.ultimo{
+	background-color: #BBB3B3;
+	margin-top: 20px;
+}
+h5{
+	color: #938989;
+	font-size: 15px;
+	font-family: Arial;
+	padding-left: 70px;
+	margin-top: 20px;
+}
+.this{
+	color: #938989;
+	font-size: 13px;
+	font-family: Arial;
+	padding-left: 70px;
+	margin-top: 20px;
+}
+.created{
+	color: #938989;
+	font-size: 13px;
+	font-family: Arial;
+	padding-left: 70px;
+	margin-top: 20px;
+}
+.driblle{
+	color: #938989;
+	font-size: 13px;
+	font-family: Arial;
+	padding-left: 70px;
+	margin-top: 40px;
+}
